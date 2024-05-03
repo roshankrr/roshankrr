@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack<br>🌱 I’m currently learning Next.js and DSA<br>💬 Ask me about WebDev,MySql,C++,DataStructures,Python<br>📫 How to reach me: https://twitter.com/rpnatorz<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing video game's 
+🔭 I’m currently working on FullStack Development <br>🌱 I’m currently learning Next.js and DSA<br>💬 Ask me about WebDev,MySql,C++,DataStructures,Python<br>📫 How to reach me: https://twitter.com/rpnatorz<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing video game's 
 
 
 ## 🌐 Socials:
